@@ -1,0 +1,21 @@
+npm init
+
+Dependencies
+npm i 
+-> basic
+        express 
+        dotenmv 
+        hbs 
+        mongoose 
+        morgan
+        http-errors
+        serve-favicon
+-> Session
+        connect-mongo
+        express-session
+-> external apis
+        axios (usualy linked as a cdn in the html file like in this project)
+
+DevDependencies
+npm i nodemon --save-dev
+
